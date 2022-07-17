@@ -1,0 +1,12 @@
+body  {margin:0;background-color:grey;display:flex;align-items:center; justify-content:center;font-family:sans-serif;}
+.view  {width:360px;height:800px;background-color:whitesmoke;}
+.view div {display:flex;justify-content:center;align-items:center;width:100%;background-color:white;}
+.view div div {display:none;}
+
+.statusbar {height:2.5%;font-size:0.5em;}
+.topbar    {height:7.5%;text-transform:uppercase;}
+.container {height:80%;}
+.navbar    {height:10%;}
+
+#navbar_icon {width:360px;display:flex;justify-content: space-evenly;}
+#navbar_icon img  {max-width:50px;}
